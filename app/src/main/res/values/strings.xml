@@ -18,6 +18,6 @@
     <string-array name="nose_array">
         <item>Wide</item>
         <item>Thin</item>
-        <item>Snake Nostrils</item>
+        <item>Snake</item>
     </string-array>
 </resources>
